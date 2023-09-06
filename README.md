@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vladimir
-- 👀 I’m interested in Microsoft Dynamics NAV / Dynamics 365 Business Central 
-- 🌱 I’m currently learning GitHub features
-- 💞️ I’m looking to collaborate on NAV and BC topics
+- 👀 I’m working with Microsoft Dynamics NAV / Dynamics 365 Business Central / PowerShell / Azure
+- 🌱 I’m currently building up my website
+- 💞️ I’m looking to collaborate on any topics where I may be helpful
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/-vladimir-kozlov/)
