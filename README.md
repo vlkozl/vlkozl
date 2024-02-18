@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Vladimir
-- 👀 I’m working with Microsoft Dynamics NAV / Dynamics 365 Business Central / PowerShell / Azure
-- 🌱 I’m currently building up my website
-- 💞️ I’m looking to collaborate on any topics where I may be helpful
+- 👀 I’m working with Microsoft Dynamics NAV / Dynamics 365 Business Central / PowerShell / Azure / ESP32 / Arduino / IoT stuff.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/-vladimir-kozlov/)
