@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Vladimir
-- 👀 I’m working with Microsoft Dynamics NAV / Dynamics 365 Business Central / PowerShell / Azure / ESP32 / Arduino / IoT stuff.
+- I’m working with Microsoft Dynamics 365 Business Central / PowerShell / Azure / ESP32 / Arduino / IoT stuff.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/-vladimir-kozlov/)
